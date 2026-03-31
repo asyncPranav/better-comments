@@ -1,0 +1,25 @@
+{
+  "id": "com.asyncpranav.bettercomments",
+  "name": "Better Comments",
+  "main": "dist/main.js",
+  "version": "1.0.0",
+  "readme": "readme.md",
+  "icon": "icon.png",
+  "minVersionCode": 290,
+  "price": 0,
+  "license": "MIT",
+  "keywords": [
+    "better-comments",
+    "asyncpranav",
+    "highlight",
+    "todo",
+    "annotation",
+    "color"
+  ],
+  "repository": "https://github.com/asyncpranav/better-comments",
+  "author": {
+    "name": "Pranav singh chandel",
+    "github": "asyncPranav"
+  },
+  "files": ["readme.md"]
+}
